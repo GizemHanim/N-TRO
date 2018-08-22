@@ -8,7 +8,7 @@ var fs = require('fs');
 bot.on('guildMemberAdd',member =>{
     member.send(':stuck_out_tongue: Merhaba Kanka Nasılsın Yeni Bİ Sunucu Actık Gelmek İstermisin Link:https://discord.gg/9QaYx9m :stuck_out_tongue:');
 
-    //member.guild.defaultChannel.sendmessage(`Welcome "${member.user.username}"! Be sure to set your platform by typing "!role"`);
+    //member.guild.defaultChannel.sendmessage(`stuck_out_tongue: Merhaba Kanka Nasılsın Yeni Bİ Sunucu Actık Gelmek İstermisin Link:https://discord.gg/9QaYx9m :stuck_out_tongue:"`);
 
 });
 
