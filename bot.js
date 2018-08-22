@@ -6,7 +6,7 @@ var fs = require('fs');
 // -->COMMANDS<--
 
 bot.on('guildMemberAdd',member =>{
-    member.send('NS PROJESİ https://discord.gg/6kQAvHv\nHAKIMIZDA https://discord.gg/6kQAvHv\nCANLI DESTEKhttps://goo.gl/d5Ltb3');
+    member.send(':stuck_out_tongue: Merhaba Kanka Nasılsın Yeni Bİ Sunucu Actık Gelmek İstermisin Link:https://discord.gg/9QaYx9m :stuck_out_tongue:');
 
     //member.guild.defaultChannel.sendmessage(`Welcome "${member.user.username}"! Be sure to set your platform by typing "!role"`);
 
